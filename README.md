@@ -69,6 +69,11 @@ _No additional setup required._
 
 ---
 
+## 👨‍💻 Author
+Developed with ❤️ by **Suvansh**  
+🔗 [GitHub](https://github.com/Suvansh-DevHub) · [LinkedIn](https://www.linkedin.com/in/suvansh36/) · [Twitter](https://x.com/Suvansh31)
+
+
 ## 📜 License
 
 This project is licensed under the **MIT License**.  
