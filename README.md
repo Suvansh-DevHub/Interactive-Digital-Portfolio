@@ -35,7 +35,7 @@ It can be used as a **personal portfolio** for students, developers, or designer
 
 
 ## Deployment Link
-[Shoestopper](https://nikeshoestopeer.netlify.app/)
+[Interactive-Digital-Portfolio](https://nikeshoestopeer.netlify.app/)
 
 
 ## 📂 Project Structure
